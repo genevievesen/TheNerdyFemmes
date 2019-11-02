@@ -1,1 +1,3 @@
-# The NerdyFemmes
+# The Nerdy Femmes
+
+Blog 
